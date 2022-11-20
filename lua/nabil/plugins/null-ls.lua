@@ -23,6 +23,7 @@ null_ls.setup({
         formatting.stylelint,
         formatting.eslint_d,
         formatting.prettierd,
+        formatting.stylua,
         diagnostics.eslint_d,
         diagnostics.stylelint,
     },
